@@ -1,4 +1,4 @@
-# OPI_LAB11-1-
+# OPI_Lab11
 Surname
 Name
 Specialization
